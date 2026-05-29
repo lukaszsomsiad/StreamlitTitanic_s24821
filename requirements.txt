@@ -6,3 +6,4 @@ torchvision
 transformers
 streamlit
 sentencepiece
+scikit-learn
